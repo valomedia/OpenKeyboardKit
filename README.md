@@ -1,8 +1,4 @@
 <p align="center">
-    <img src="Resources/Icon.png" alt="Project Icon" width="250" />
-</p>
-
-<p align="center">
     <img src="https://img.shields.io/github/v/release/KeyboardKit/KeyboardKit?color=forestgreen&sort=semver" alt="Version" />
     <img src="https://img.shields.io/badge/swift-5.9-orange.svg" alt="Swift 5.9" />
     <img src="https://img.shields.io/badge/platform-SwiftUI-blue.svg" alt="Swift UI" title="Swift UI" />
