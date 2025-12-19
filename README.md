@@ -26,7 +26,7 @@ The easiest way to set up KeyboardKit is to first create a `KeyboardApp` value f
 import KeyboardKit
 
 extension KeyboardApp {
-
+
         static var keyboardKitDemo: KeyboardApp {
         .init(
             name: "KeyboardKit",
@@ -53,7 +53,7 @@ This unlocks additional functions and capabilities, and adds `services` and obse
 Next, override `viewDidLoad()` and call `setup(for:)` to set up the keyboard extension for your app:
 
 ```swift
-class KeyboardViewController: KeyboardInputViewController {
+class KeyboardViewController: KeyboardInputViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -72,7 +72,7 @@ This will make keyboard settings sync data between the main app and its keyboard
 To replace or customize the standard ``KeyboardView``, just override `viewWillSetupKeyboardView()` and let it call `setupKeyboardView(_:)` with the view that you want to use:
 
 ```swift
-class KeyboardViewController: KeyboardInputViewController {
+class KeyboardViewController: KeyboardInputViewController {
 
     override func viewWillSetupKeyboardView() {
         setupKeyboardView { [weak self] controller in // <-- Use weak or unknowned self!
@@ -125,7 +125,7 @@ KeyboardKit supports [75 locales][Localization]:
 🇷🇸 🇷🇸 🇹🇯 🇸🇰 🇸🇮 🇪🇸 🇦🇷 🇲🇽 🇸🇪 🇰🇪 <br />
 🇹🇷 🇺🇦 🇺🇿 🇻🇳 🏴󠁧󠁢󠁷󠁬󠁳󠁿 <br />
 
-KeyboardKit only includes localized strings, while [KeyboardKit Pro][Pro] unlocks localized keyboards, layouts, callouts and behaviors for all supported locales.
+KeyboardKit only includes localized strings, while [KeyboardKit Pro][Pro] unlocks localized keyboards, layouts, callouts and behaviors for all supported locales.
 
 
 
