@@ -146,7 +146,7 @@ KeyboardKit provides a free, open-source keyboard engine. [KeyboardKit Pro][Pro]
 * 📄 [Proxy][Proxy] - Extend the text document proxy with more capabilities.
 * ⚙️ [Settings][Settings] - Provide keyboard settings & link to System Settings.
 * 🩺 [Status][Status] - Detect if a keyboard is enabled, has full access, etc.
-* 🎨 [Styling][Styling] - Style your keyboard to great extent.
+* 🎨 [Styling][Styling] - Style your keyboard to a great extent.
 
 
 
