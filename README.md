@@ -72,7 +72,7 @@ To replace or customize the standard ``KeyboardView``, just override `viewWillSe
 class KeyboardViewController: KeyboardInputViewController {
 
     override func viewWillSetupKeyboardView() {
-        setupKeyboardView { [weak self] controller in // <-- Use weak or unknowned self!
+        setupKeyboardView { [weak self] controller in // <-- Use weak or unowned self!
             KeyboardView(
                 state: controller.state,
                 services: controller.services,
