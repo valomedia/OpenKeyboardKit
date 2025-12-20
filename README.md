@@ -175,7 +175,7 @@ Download the [KeyboardKit app][KeyboardKit-App] from the App Store to try Keyboa
 
 ## Support This Project
 
-KeyboardKit is open-source and completely free, but you can support the project by becoming a [GitHub Sponsor][Sponsors], upgrading to [KeyboardKit Pro][Pro] or [get in touch][Email] for freelance work, paid support etc.
+KeyboardKit is open-source and completely free, but you can support the project by becoming a [GitHub Sponsor][Sponsors], upgrading to [KeyboardKit Pro][Pro] or [get in touch][Email] for freelance work, paid support, etc.
 
 
 
