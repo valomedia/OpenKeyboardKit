@@ -4,8 +4,6 @@
 
 # Swift Package manager
 /.build
-.swiftpm/
-/Packages
 
 #
 # Operating system
@@ -20,4 +18,3 @@
 
 # XCode
 xcuserdata/
-DerivedData/
