@@ -1,6 +1,23 @@
-.DS_Store
+#
+# Build artefacts
+#
+
+# Swift Package manager
 /.build
-/Packages
 .swiftpm/
+/Packages
+
+#
+# Operating system
+#
+
+# macOS
+.DS_Store
+
+#
+# Editors
+#
+
+# XCode
 xcuserdata/
 DerivedData/
