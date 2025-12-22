@@ -3,7 +3,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "KeyboardKit",
+    name: "OpenKeyboardKit",
     defaultLocalization: "en",
     platforms: [
         .iOS(.v15),
