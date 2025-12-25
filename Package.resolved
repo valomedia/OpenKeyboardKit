@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "emojikit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/danielsaidi/EmojiKit.git",
+      "state" : {
+        "revision" : "1d89bb51c4b9bb9c455644a9c413d19ed6364e7d",
+        "version" : "1.7.1"
+      }
+    },
+    {
+      "identity" : "gesturebutton",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/danielsaidi/GestureButton.git",
+      "state" : {
+        "revision" : "b1379a273a83a318bb43e47c9c50eaf4106a92df",
+        "version" : "0.4.1"
+      }
+    }
+  ],
+  "version" : 2
+}
