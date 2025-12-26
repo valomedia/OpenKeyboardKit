@@ -1,8 +1,8 @@
 # KeyboardKit
 
-KeyboardKit lets you create amazing [custom keyboard extensions][About] with a few lines of code, using Swift &
-SwiftUI. KeyboardKit extends Apple's limited keyboard APIs with more capabilities. It is a fork of the last open 
-source version of [KeyboardKit](https://keyboardkit.com).
+KeyboardKit lets you create amazing custom keyboard extensions with a few lines of code, using Swift & SwiftUI.
+KeyboardKit extends Apple's limited keyboard APIs with more capabilities. It is a fork of the last open source version
+of [KeyboardKit](https://keyboardkit.com).
 
 ## Installation
 
@@ -106,11 +106,11 @@ struct MyApp: App {
 }
 ```
 
-For more information, see the [getting started guide][Getting-Started] and [essentials][Essentials] articles.
+For more information, see the Getting Started Guide and Essentials articles.
 
 ## Localization
 
-KeyboardKit supports [75 locales][Localization]:
+KeyboardKit supports 75 locales:
 
 🇺🇸 🇦🇱 🇦🇪 🇦🇲 🇦🇿 🇧🇾 🇧🇩 🇧🇬 🇦🇩 🏳️ <br />
 🏳️ 🇭🇷 🇨🇿 🇩🇰 🇳🇱 🇧🇪 🇦🇺 🇨🇦 🇬🇧 🇺🇸 <br />
@@ -121,30 +121,30 @@ KeyboardKit supports [75 locales][Localization]:
 🇷🇸 🇷🇸 🇹🇯 🇸🇰 🇸🇮 🇪🇸 🇦🇷 🇲🇽 🇸🇪 🇰🇪 <br />
 🇹🇷 🇺🇦 🇺🇿 🇻🇳 🏴󠁧󠁢󠁷󠁬󠁳󠁿 <br />
 
-KeyboardKit only includes localized strings, while [KeyboardKit Pro][Pro] unlocks localized keyboards, layouts,
+KeyboardKit only includes localized strings, while KeyboardKit Pro unlocks localized keyboards, layouts,
 callouts, and behaviors for all supported locales.
 
 ## Features
 
-KeyboardKit provides a free, open-source keyboard engine. [KeyboardKit Pro][Pro] unlocks more powerful pro features.
+KeyboardKit provides a free, open-source keyboard engine. KeyboardKit Pro unlocks more powerful pro features.
 
-* 🌱 [Essentials][Essentials] - Essential models, services, utilities & views.
-* ⌨️ [Essentials-KeyboardView][Essentials-KeyboardView] - A native-looking, customizable keyboard.
-* 💥 [Actions][Actions] - Trigger & handle keyboard-related actions.
-* 📱 [App][App] - Set up your app, keyboard, sync settings, etc.
-* 🗯 [Callouts][Callouts] - Show input & secondary action callouts.
-* 🖥️ [Device][Device] - Identify device type, capabilities, etc.
-* 😀 [Emojis][Emojis] - Emojis, categories, versions, skin tones, etc.
-* 🔉 [Feedback][Feedback] - Trigger audio & haptic feedback.
-* 👆 [Gestures][Gestures] - Handle a rich set of gestures on any key.
-* 🔣 [Layout][Layout] - Define and customize dynamic keyboard layouts.
-* 🌐 [Localization][Localization] - Additional locale-related utilities.
-* 🗺️ [Navigation][Navigation] - Open urls and other apps from the keyboard.
-* 👁 [Previews][Previews] - Extensive SwiftUI preview support.
-* 📄 [Proxy][Proxy] - Extend the text document proxy with more capabilities.
-* ⚙️ [Settings][Settings] - Provide keyboard settings & link to System Settings.
-* 🩺 [Status][Status] - Detect if a keyboard is enabled, has full access, etc.
-* 🎨 [Styling][Styling] - Style your keyboard to a great extent.
+* 🌱 Essentials - Essential models, services, utilities & views.
+* ⌨️ Essentials-KeyboardView - A native-looking, customizable keyboard.
+* 💥 Actions - Trigger & handle keyboard-related actions.
+* 📱 App - Set up your app, keyboard, sync settings, etc.
+* 🗯 Callouts - Show input & secondary action callouts.
+* 🖥️ Device - Identify device type, capabilities, etc.
+* 😀 Emojis - Emojis, categories, versions, skin tones, etc.
+* 🔉 Feedback - Trigger audio & haptic feedback.
+* 👆 Gestures - Handle a rich set of gestures on any key.
+* 🔣 Layout - Define and customize dynamic keyboard layouts.
+* 🌐 Localization - Additional locale-related utilities.
+* 🗺️ Navigation - Open urls and other apps from the keyboard.
+* 👁 Previews - Extensive SwiftUI preview support.
+* 📄 Proxy - Extend the text document proxy with more capabilities.
+* ⚙️ Settings - Provide keyboard settings & link to System Settings.
+* 🩺 Status - Detect if a keyboard is enabled, has full access, etc.
+* 🎨 Styling - Style your keyboard to a great extent.
 
 ## Documentation
 
@@ -174,35 +174,5 @@ fit for your needs – especially if you have some money to spare.
 
 ## License
 
-KeyboardKit is available under the MIT license. See the [LICENSE][License] file for more info.
+KeyboardKit is available under the MIT license. See the LICENSE file for more info.
 
-[About]: https://keyboardkit.com/about
-[Pro]: https://github.com/KeyboardKit/KeyboardKitPro
-[License]: https://github.com/KeyboardKit/KeyboardKit/blob/master/LICENSE
-[Getting-Started]: https://keyboardkit.github.io/KeyboardKit/documentation/keyboardkit/getting-started-article
-[Essentials]: https://keyboardkit.github.io/KeyboardKit/documentation/keyboardkit/essentials-article
-[Essentials-KeyboardView]: https://keyboardkit.github.io/KeyboardKit/documentation/keyboardkit/essentials-keyboardview
-[Essentials-Memory-Management]: https://keyboardkit.github.io/KeyboardKit/documentation/keyboardkit/essentials-memory-management
-[Actions]: https://keyboardkit.github.io/KeyboardKit/documentation/keyboardkit/actions-article
-[AI]: https://keyboardkit.github.io/KeyboardKit/documentation/keyboardkit/ai-article
-[App]: https://keyboardkit.github.io/KeyboardKit/documentation/keyboardkit/app-article
-[Autocomplete]: https://keyboardkit.github.io/KeyboardKit/documentation/keyboardkit/autocomplete-article
-[Buttons]: https://keyboardkit.github.io/KeyboardKit/documentation/keyboardkit/buttons-article
-[Callouts]: https://keyboardkit.github.io/KeyboardKit/documentation/keyboardkit/callouts-article
-[Device]: https://keyboardkit.github.io/KeyboardKit/documentation/keyboardkit/device-article
-[Dictation]: https://keyboardkit.github.io/KeyboardKit/documentation/keyboardkit/dictation-article
-[Emojis]: https://keyboardkit.github.io/KeyboardKit/documentation/keyboardkit/emojis-article
-[External]: https://keyboardkit.github.io/KeyboardKit/documentation/keyboardkit/external-keyboards-article
-[Feedback]: https://keyboardkit.github.io/KeyboardKit/documentation/keyboardkit/feedback-article
-[Gestures]: https://keyboardkit.github.io/KeyboardKit/documentation/keyboardkit/gestures-article
-[Host]: https://keyboardkit.github.io/KeyboardKit/documentation/keyboardkit/host-article
-[Input]: https://keyboardkit.github.io/KeyboardKit/documentation/keyboardkit/input-article
-[Layout]: https://keyboardkit.github.io/KeyboardKit/documentation/keyboardkit/layout-article
-[Localization]: https://keyboardkit.github.io/KeyboardKit/documentation/keyboardkit/localization-article
-[Navigation]: https://keyboardkit.github.io/KeyboardKit/documentation/keyboardkit/navigation-article
-[Previews]: https://keyboardkit.github.io/KeyboardKit/documentation/keyboardkit/previews-article
-[Proxy]: https://keyboardkit.github.io/KeyboardKit/documentation/keyboardkit/proxy-article
-[Settings]: https://keyboardkit.github.io/KeyboardKit/documentation/keyboardkit/settings-article
-[Status]: https://keyboardkit.github.io/KeyboardKit/documentation/keyboardkit/status-article
-[Styling]: https://keyboardkit.github.io/KeyboardKit/documentation/keyboardkit/styling-article
-[Themes]: https://keyboardkit.github.io/KeyboardKit/documentation/keyboardkit/themes-article
