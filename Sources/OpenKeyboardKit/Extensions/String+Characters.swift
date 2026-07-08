@@ -44,7 +44,7 @@ public extension String {
     static let whitespacesAndNewlines = whitespacesAndNewlinesString.chars
 
     /// A list of currently known whitespaces and newlines.
-    static let whitespacesAndNewlinesString = " \t\n\u{b}\u{c}\r \u{85}             ​\u{2028}\u{2029}"
+    static let whitespacesAndNewlinesString = " \t\n\u{b}\u{c}\r \u{85}             \u{200B}\u{2028}\u{2029}"
 
     /// A list of currently known word delimiters.
     static let wordDelimiters = ".,:;!¡?¿()[]{}<>«»་།"
