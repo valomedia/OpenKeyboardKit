@@ -16,11 +16,6 @@ concurrency:
 jobs:
   lint:
     name: Lint
-    # Keep fork pull requests skipped per repository policy;
-    # pushes and same-repository pull requests still run CI.
-    if: >-
-      github.event_name == 'push' ||
-      github.event.pull_request.head.repo.full_name == github.repository
     runs-on: macos-15
     timeout-minutes: 10
 
@@ -33,11 +28,6 @@ jobs:
 
   build:
     name: Build
-    # Keep fork pull requests skipped per repository policy;
-    # pushes and same-repository pull requests still run CI.
-    if: >-
-      github.event_name == 'push' ||
-      github.event.pull_request.head.repo.full_name == github.repository
     runs-on: macos-15
     timeout-minutes: 45
 
@@ -55,11 +45,6 @@ jobs:
 
   unit-tests:
     name: Unit tests
-    # Keep fork pull requests skipped per repository policy;
-    # pushes and same-repository pull requests still run CI.
-    if: >-
-      github.event_name == 'push' ||
-      github.event.pull_request.head.repo.full_name == github.repository
     runs-on: macos-15
     timeout-minutes: 45
 
