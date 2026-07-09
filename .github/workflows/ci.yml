@@ -28,11 +28,8 @@ jobs:
       - name: Check out repository
         uses: actions/checkout@v7
 
-      - name: Install SwiftLint
-        run: brew install swiftlint
-
       - name: Run SwiftLint
-        run: swiftlint --strict
+        run: swift package plugin swiftlint --strict
 
   build:
     name: Build
