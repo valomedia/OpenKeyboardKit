@@ -24,7 +24,7 @@ jobs:
         uses: actions/checkout@v7
 
       - name: Run SwiftLint
-        run: swift package plugin swiftlint --strict
+        run: swift package plugin --allow-writing-to-package-directory swiftlint --strict
 
   build:
     name: Build
