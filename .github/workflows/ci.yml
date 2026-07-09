@@ -75,5 +75,5 @@ jobs:
         with:
           xcode-version: '16.4'
 
-      - name: Run unit tests
-        run: bash scripts/test.sh OpenKeyboardKit
+      - name: Run iOS unit tests
+        run: bash scripts/test.sh OpenKeyboardKit iOS
