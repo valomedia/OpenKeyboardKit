@@ -2,7 +2,6 @@
 //  UITextDocumentProxy+Words.swift
 //  KeyboardKit
 //
-//  Created by Daniel Saidi on 2019-07-02.
 //  Copyright © 2019-2025 Daniel Saidi. All rights reserved.
 //
 

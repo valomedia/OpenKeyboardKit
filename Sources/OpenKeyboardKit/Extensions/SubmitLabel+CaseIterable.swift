@@ -2,7 +2,6 @@
 //  SubmitLabel+CaseIterable.swift
 //  KeyboardKit
 //
-//  Created by Daniel Saidi on 2023-12-22.
 //  Copyright © 2023-2025 Daniel Saidi. All rights reserved.
 //
 

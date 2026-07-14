@@ -2,7 +2,6 @@
 //  KeyboardViewController+SetupCore.swift
 //  KeyboardKit
 //
-//  Created by Daniel Saidi on 2025-03-03.
 //  Copyright © 2025 Daniel Saidi. All rights reserved.
 //
 

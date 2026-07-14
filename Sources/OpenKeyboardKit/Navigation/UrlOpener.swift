@@ -2,7 +2,6 @@
 //  UrlOpener.swift
 //  KeyboardKit
 //
-//  Created by Daniel Saidi on 2024-09-12.
 //  Copyright © 2024-2025 Daniel Saidi. All rights reserved.
 //
 

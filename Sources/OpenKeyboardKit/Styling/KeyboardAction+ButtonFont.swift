@@ -2,7 +2,6 @@
 //  KeyboardAction+ButtonFont.swift
 //  KeyboardKit
 //
-//  Created by Daniel Saidi on 2025-06-13.
 //  Copyright © 2025 Daniel Saidi. All rights reserved.
 //
 

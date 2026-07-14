@@ -2,7 +2,6 @@
 //  KeyboardSettings+InputToolbarTests.swift
 //  KeyboardKit
 //
-//  Created by Daniel Saidi on 2025-02-03.
 //  Copyright © 2024-2025 Daniel Saidi. All rights reserved.
 //
 

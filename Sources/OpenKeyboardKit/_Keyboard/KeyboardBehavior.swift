@@ -2,7 +2,6 @@
 //  KeyboardBehavior.swift
 //  KeyboardKit
 //
-//  Created by Daniel Saidi on 2020-12-28.
 //  Copyright © 2020-2025 Daniel Saidi. All rights reserved.
 //
 

@@ -2,7 +2,6 @@
 //  InputSetTests.swift
 //  KeyboardKit
 //
-//  Created by Daniel Saidi on 2020-07-03.
 //  Copyright © 2021-2025 Daniel Saidi. All rights reserved.
 //
 

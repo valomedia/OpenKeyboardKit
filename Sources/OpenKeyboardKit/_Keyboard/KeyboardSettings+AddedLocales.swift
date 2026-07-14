@@ -2,7 +2,6 @@
 //  KeyboardSettings+AddedLocales.swift
 //  KeyboardKit
 //
-//  Created by Daniel Saidi on 2025-02-05.
 //  Copyright © 2025 Daniel Saidi. All rights reserved.
 //
 

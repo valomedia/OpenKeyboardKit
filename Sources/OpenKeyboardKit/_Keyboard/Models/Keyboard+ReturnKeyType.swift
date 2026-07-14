@@ -2,7 +2,6 @@
 //  Keyboard+ReturnKeyType.swift
 //  KeyboardKit
 //
-//  Created by Daniel Saidi on 2023-04-17.
 //  Copyright © 2023-2025 Daniel Saidi. All rights reserved.
 //
 

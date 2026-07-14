@@ -2,7 +2,6 @@
 //  KeyboardStyle+ButtonTests.swift
 //  KeyboardKit
 //
-//  Created by Daniel Saidi on 2023-03-19.
 //  Copyright ©  Daniel Saidi. All rights reserved.
 //
 

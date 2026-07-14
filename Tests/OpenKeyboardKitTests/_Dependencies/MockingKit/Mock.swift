@@ -2,7 +2,6 @@
 //  Mock.swift
 //  MockingKit
 //
-//  Created by Daniel Saidi on 2019-04-16.
 //  Copyright © 2019-2025 Daniel Saidi. All rights reserved.
 //
 

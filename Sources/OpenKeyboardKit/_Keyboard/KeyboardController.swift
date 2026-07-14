@@ -2,7 +2,6 @@
 //  KeyboardActionTrigger.swift
 //  KeyboardKit
 //
-//  Created by Daniel Saidi on 2023-01-23.
 //  Copyright © 2020-2025 Daniel Saidi. All rights reserved.
 //
 

@@ -2,7 +2,6 @@
 //  MockReference.swift
 //  MockingKit
 //
-//  Created by Daniel Saidi on 2020-07-17.
 //  Copyright © 2020-2025 Daniel Saidi. All rights reserved.
 //
 

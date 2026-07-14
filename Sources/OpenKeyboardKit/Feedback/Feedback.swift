@@ -2,7 +2,6 @@
 //  Feedback.swift
 //  KeyboardKit
 //
-//  Created by Daniel Saidi on 2024-04-08.
 //  Copyright © 2024-2025 Daniel Saidi. All rights reserved.
 //
 

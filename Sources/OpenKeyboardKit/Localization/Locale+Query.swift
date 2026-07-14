@@ -2,7 +2,6 @@
 //  Locale+Query.swift
 //  KeyboardKit
 //
-//  Created by Daniel Saidi on 2024-08-16.
 //
 
 import Foundation

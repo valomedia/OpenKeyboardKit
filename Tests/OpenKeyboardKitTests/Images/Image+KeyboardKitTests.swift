@@ -2,7 +2,6 @@
 //  Image+KeyboardKitTests.swift
 //  KeyboardKit
 //
-//  Created by Daniel Saidi on 2020-06-22.
 //  Copyright © 2021-2025 Daniel Saidi. All rights reserved.
 //
 

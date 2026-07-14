@@ -2,7 +2,6 @@
 //  Keyboard+AutocapitalizationType.swift
 //  KeyboardKit
 //
-//  Created by Daniel Saidi on 2023-03-26.
 //  Copyright © 2020-2025 Daniel Saidi. All rights reserved.
 //
 

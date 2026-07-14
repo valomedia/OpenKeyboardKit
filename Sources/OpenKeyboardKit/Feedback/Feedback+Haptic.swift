@@ -2,7 +2,6 @@
 //  Feedback+Haptic.swift
 //  KeyboardKit
 //
-//  Created by Daniel Saidi on 2019-04-26.
 //  Copyright © 2019-2025 Daniel Saidi. All rights reserved.
 //
 

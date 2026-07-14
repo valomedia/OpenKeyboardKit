@@ -2,7 +2,6 @@
 //  Keyboard+NumberPad.swift
 //  KeyboardKit
 //
-//  Created by Daniel Saidi on 2024-08-27.
 //  Copyright © 2020-2025 Daniel Saidi. All rights reserved.
 //
 

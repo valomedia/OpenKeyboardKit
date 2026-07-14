@@ -2,7 +2,6 @@
 //  Keyboard+Toolbar.swift
 //  KeyboardKit
 //
-//  Created by Daniel Saidi on 2024-03-18.
 //  Copyright © 2024-2025 Daniel Saidi. All rights reserved.
 //
 

@@ -2,7 +2,6 @@
 //  StandardSpeechRecognizer.swift
 //  Demo
 //
-//  Created by Daniel Saidi on 2023-12-12.
 //  Copyright © 2023-2025 Daniel Saidi. All rights reserved.
 //
 

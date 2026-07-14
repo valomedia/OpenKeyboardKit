@@ -2,7 +2,6 @@
 //  GestureButton+KeyboardKit.swift
 //  KeyboardKit
 //
-//  Created by Daniel Saidi on 2025-04-17.
 //  Copyright © 2025 Daniel Saidi. All rights reserved.
 //
 

@@ -2,7 +2,6 @@
 //  KeyboardSettings+Store.swift
 //  KeyboardKit
 //
-//  Created by Daniel Saidi on 2024-03-30.
 //  Copyright © 2024-2025 Daniel Saidi. All rights reserved.
 //
 

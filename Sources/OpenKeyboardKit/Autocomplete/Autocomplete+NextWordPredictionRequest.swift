@@ -2,7 +2,6 @@
 //  Autocomplete+NextWordPredictionRequest.swift
 //  KeyboardKit
 //
-//  Created by Daniel Saidi on 2024-10-18.
 //  Copyright © 2024-2025 Daniel Saidi. All rights reserved.
 //
 

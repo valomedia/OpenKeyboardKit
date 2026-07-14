@@ -2,7 +2,6 @@
 //  KeyboardContext+Sync.swift
 //  KeyboardKit
 //
-//  Created by Daniel Saidi on 2020-06-15.
 //  Copyright © 2020-2025 Daniel Saidi. All rights reserved.
 //
 

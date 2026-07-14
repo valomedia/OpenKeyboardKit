@@ -2,7 +2,6 @@
 //  KeyboardAction+KeyboardLayout.swift
 //  KeyboardKit
 //
-//  Created by Daniel Saidi on 2025-07-18.
 //  Copyright © 2025 Daniel Saidi. All rights reserved.
 //
 

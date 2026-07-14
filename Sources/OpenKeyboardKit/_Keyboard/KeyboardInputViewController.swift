@@ -2,7 +2,6 @@
 //  KeyboardViewController.swift
 //  KeyboardKit
 //
-//  Created by Daniel Saidi on 2018-03-13.
 //  Copyright © 2018-2025 Daniel Saidi. All rights reserved.
 //
 

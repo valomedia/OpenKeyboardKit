@@ -2,7 +2,6 @@
 //  Callouts+CalloutStyleTests.swift
 //  KeyboardKit
 //
-//  Created by Daniel Saidi on 2024-11-03.
 //  Copyright © 2024-2025 Daniel Saidi. All rights reserved.
 //
 

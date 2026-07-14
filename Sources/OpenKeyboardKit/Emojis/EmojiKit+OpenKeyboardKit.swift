@@ -2,7 +2,6 @@
 //  Localizable+KeyboardKit.swift
 //  EmojiKit
 //
-//  Created by Daniel Saidi on 2024-10-03.
 //  Copyright © 2023-2025 Daniel Saidi. All rights reserved.
 //
 

@@ -2,7 +2,6 @@
 //  Keyboard+DiacriticTests.swift
 //  KeyboardKit
 //
-//  Created by Daniel Saidi on 2025-03-09.
 //  Copyright © 2025 Daniel Saidi. All rights reserved.
 //
 

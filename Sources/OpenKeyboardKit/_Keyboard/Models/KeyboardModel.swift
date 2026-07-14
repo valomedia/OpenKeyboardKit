@@ -2,7 +2,6 @@
 //  KeyboardModel.swift
 //  KeyboardKit
 //
-//  Created by Daniel Saidi on 2025-01-21.
 //  Copyright © 2020-2025 Daniel Saidi. All rights reserved.
 //
 

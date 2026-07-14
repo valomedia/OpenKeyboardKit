@@ -2,7 +2,6 @@
 //  KeyboardViewController.swift
 //  KeyboardPro
 //
-//  Created by Daniel Saidi on 2023-02-13.
 //  Copyright © 2023-2025 Daniel Saidi. All rights reserved.
 //
 

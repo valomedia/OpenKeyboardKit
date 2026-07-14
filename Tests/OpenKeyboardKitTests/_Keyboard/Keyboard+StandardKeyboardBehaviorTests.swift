@@ -2,7 +2,6 @@
 //  Keyboard+StandardKeyboardBehaviorTests.swift
 //  KeyboardKit
 //
-//  Created by Daniel Saidi on 2019-05-06.
 //  Copyright © 2021-2025 Daniel Saidi. All rights reserved.
 //
 
