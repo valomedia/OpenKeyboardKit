@@ -8,7 +8,7 @@ let package = Package(
     platforms: [
         .iOS(.v15),
         .macOS(.v12),
-        .tvOS(.v15),
+        .tvOS(.v16),
         .watchOS(.v8),
         .visionOS(.v1)
     ],
@@ -20,7 +20,8 @@ let package = Package(
     ],
     dependencies: [
         .package(url: "https://github.com/danielsaidi/EmojiKit.git", exact: "1.7.1"),
-        .package(url: "https://github.com/danielsaidi/GestureButton.git", exact: "0.5.0")
+        .package(url: "https://github.com/danielsaidi/GestureButton.git", exact: "0.5.0"),
+        .package(url: "https://github.com/SimplyDanny/SwiftLintPlugins", exact: "0.65.0")
     ],
     targets: [
         .target(
