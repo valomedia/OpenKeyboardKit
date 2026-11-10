@@ -14,48 +14,15 @@ concurrency:
   cancel-in-progress: true
 
 jobs:
-  lint:
-    name: Lint
-    runs-on: macos-15
-    timeout-minutes: 10
-
-    steps:
-      - name: Check out repository
-        uses: actions/checkout@v7
-
-      - name: Run SwiftLint
-        run: swift package plugin --allow-writing-to-package-directory swiftlint --strict
-
-  build:
-    name: Build
-    runs-on: macos-15
-    timeout-minutes: 45
-
-    steps:
-      - name: Check out repository
-        uses: actions/checkout@v7
-
-      - name: Select Xcode
-        uses: maxim-lobanov/setup-xcode@v1
-        with:
-          xcode-version: '16.4'
-
-      - name: Build all platforms
-        run: bash scripts/build.sh OpenKeyboardKit
-
-  unit-tests:
-    name: Unit tests
-    runs-on: macos-15
-    timeout-minutes: 45
-
-    steps:
-      - name: Check out repository
-        uses: actions/checkout@v7
-
-      - name: Select Xcode
-        uses: maxim-lobanov/setup-xcode@v1
-        with:
-          xcode-version: '16.4'
-
-      - name: Run iOS unit tests
-        run: bash scripts/test.sh OpenKeyboardKit iOS
+  ci:
+    uses: valomedia/github-workflows/.github/workflows/ios-ci.yml@0e24ac0bdeb710a9d37ff088d95fe8789a8d4516 # v1.2.1
+    with:
+      runs-on: macos-15
+      xcode-path: /Applications/Xcode_16.4.app
+      install-command: ''
+      # Unused for this Swift package's custom build and test commands.
+      workspace: ''
+      scheme: OpenKeyboardKit
+      lint-command: swift package plugin --allow-writing-to-package-directory swiftlint --strict
+      build-command: bash scripts/build.sh OpenKeyboardKit
+      unit-test-command: bash scripts/test.sh OpenKeyboardKit iOS
